@@ -1,0 +1,4 @@
+dns
+===
+
+Internal DNS configuration
